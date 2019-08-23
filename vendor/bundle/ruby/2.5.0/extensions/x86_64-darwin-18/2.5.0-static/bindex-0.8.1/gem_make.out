@@ -1,0 +1,15 @@
+current directory: /Users/hidetake/projects/views/vendor/bundle/ruby/2.5.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/hidetake/.rbenv/versions/2.5.1/bin/ruby -I /Users/hidetake/.rbenv/versions/2.5.1/lib/ruby/site_ruby/2.5.0 -r ./siteconf20190823-49008-166tfur.rb extconf.rb
+creating Makefile
+
+current directory: /Users/hidetake/projects/views/vendor/bundle/ruby/2.5.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/hidetake/projects/views/vendor/bundle/ruby/2.5.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/hidetake/projects/views/vendor/bundle/ruby/2.5.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20190823-49008-gg6axq/skiptrace/internal
